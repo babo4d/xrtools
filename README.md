@@ -59,6 +59,10 @@ openupm-cli
 
 Manage with Unity UPM, OpenUPM, VCC, VPM-CLI, or vrc-get.
 
+- VRChat Curated Packages ([vpm/web](https://vrchat-community.github.io/vpm-listing-curated/)) ([vpm/json](https://vrchat-community.github.io/vpm-listing-curated/index.json))
+    - Gesture Manager ([github](https://github.com/BlackStartx/VRC-Gesture-Manager)) ([openupm](https://openupm.com/packages/vrchat.blackstartx.gesture-manager/))
+    - ClientSim ([github](https://github.com/vrchat-community/ClientSim))
+    - UdonSharp ([github](https://github.com/vrchat-community/UdonSharp))
 - lilxyzw ([vpm/web](https://lilxyzw.github.io/vpm-repos/)) ([vpm/json](https://lilxyzw.github.io/vpm-repos/vpm.json))
     - [lilToon](https://lilxyzw.github.io/lilToon/) ([github](https://github.com/lilxyzw/lilToon)) ([upm](https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon))
     - lilAvatarUtils ([github](https://github.com/lilxyzw/lilAvatarUtils))
