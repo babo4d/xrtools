@@ -103,3 +103,8 @@ unity-hub
 tiny-vcc
 vccmac
 ```
+
+## Related Projects
+
+- [Awesome VRChat](https://github.com/madjin/awesome-vrchat)
+- [Registry Tweaks for VRChat](https://github.com/babo4d/vrchacks)
